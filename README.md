@@ -5,7 +5,7 @@
 
 - 🌟 I’m currently diving into **JavaScript, Node.js, and Express.js for backend development.**
 
-- 🚀 Excited to explore **Cybersecurity, Web 3, and AI/ML**
+- 🚀 Excited to explore ** Web 3, AI/ML and Cybersecurity**
 
 - 🔍 Let's connect and discuss tech!
 
