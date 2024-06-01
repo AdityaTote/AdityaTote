@@ -29,9 +29,7 @@
   
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityatote&show_icons=true&locale=en" alt="adityatote" /></p>
-
-## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTote&size_weight=0.5&count_weight=0.5)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adityatote&show_icons=true&locale=en" alt="adityatote" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTote&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+</p>
