@@ -1,0 +1,3 @@
+# wakatime_api_key: 'your_wakatime_api_key'
+update_frequency: 'daily'  # update frequency, you can use 'hourly', 'daily', etc.
+languages: 5 
