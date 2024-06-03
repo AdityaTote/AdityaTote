@@ -34,5 +34,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTote&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
 </p>
 
-<!--START_SECTION:languages-->
-<!--END_SECTION:languages-->
+<!--START_SECTION:waka-->
+```txt
+```
+<!--END_SECTION:waka-->
