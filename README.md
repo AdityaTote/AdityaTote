@@ -35,6 +35,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@AdityaTote/695cc915-b29c-48dd-991d-7b82b4b6761c.svg"></embed></figure>
+<img src="https://wakatime.com/share/@AdityaTote/d26b70a6-cfcd-4d71-9ed7-e2568ade1b69.svg"></img>
 
 <!--END_SECTION:waka-->
