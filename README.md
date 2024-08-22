@@ -3,11 +3,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Tote</h1>
 <h3 align="center">Passionate about creating innovative Tech Solutions</h3>
 
-- 🌟 I’m currently diving into **JavaScript, Node.js, and Express.js for backend development.**
+- 🌟 Proficient in JavaScript, Node.js, and Express.js for backend development
 
-- 🚀 Excited to explore **Web 3, AI/ML and Cybersecurity**
+- 🚀 Currently exploring Web3 technologies and frontend development
 
-- 🔍 Let's connect and discuss tech!
+- 🔍 Excited about future ventures into AI/ML and Cybersecurity
+
+- 💻 Always eager to connect and discuss the latest in tech!
 
 - 📫 How to reach me **adityatote24@gmail.com**
 
