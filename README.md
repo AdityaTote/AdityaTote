@@ -7,7 +7,7 @@
 
 - 🚀 Currently exploring Web3 technologies and frontend development
 
-- 🔍 Excited about future ventures into AI/ML and Cybersecurity
+- 🔍 Excited about future ventures into AI/ML.
 
 - 💻 Always eager to connect and discuss the latest in tech!
 
