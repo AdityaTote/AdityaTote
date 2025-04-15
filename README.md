@@ -30,12 +30,6 @@
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postman,npm,mongodb,postgres,git,github,bash,django,firebase,vscode,debian,neovim)](https://skillicons.dev)
   
 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adityatote&show_icons=true&locale=en" alt="adityatote" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTote&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
-</p>
-
 <!--START_SECTION:waka-->
 
 
