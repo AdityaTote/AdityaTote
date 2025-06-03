@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/AdityaTote/AdityaTote/blob/main/assests/banner.png)
+![MasterHead](https://github.com/AdityaTote/AdityaTote/tree/main/assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Aditya Tote</h1>
 <h3 align="center">Passionate about creating innovative Tech Solutions</h3>
