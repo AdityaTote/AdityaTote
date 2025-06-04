@@ -25,11 +25,11 @@
 ```txt
 Total Time: 6 hrs 35 mins
 
-TypeScript    5 hrs 4 mins    ###################------   76.95 %
-JavaScript    33 mins         ##-----------------------   08.39 %
-Python        20 mins         #------------------------   05.15 %
-Markdown      13 mins         #------------------------   03.42 %
-Git Config    8 mins          #------------------------   02.12 %
+TypeScript    5 hrs 4 mins    ███████████████████▒░░░░░   76.95 %
+JavaScript    33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Python        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Markdown      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Git Config    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
