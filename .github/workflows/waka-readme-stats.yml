@@ -24,9 +24,8 @@ jobs:
           REPOSITORY: AdityaTote/AdityaTote
           
           ### content
-          SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ->
+          BLOCKS: -#
           LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
