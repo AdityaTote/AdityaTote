@@ -1,38 +1,39 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
-  schedule:
-    # runs every 10 minutes
-    - cron: "*/10 * * * *"
+    # for manual workflow trigger
+    workflow_dispatch:
+    schedule:
+        # runs at 12 AM UTC (5:30 AM IST)
+        - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          
-          ### optional fields
+    update-readme:
+        name: WakaReadme DevMetrics
+        runs-on: ubuntu-latest
+        steps:
+            # this action name
+            - uses: athul/waka-readme@master # do NOT replace with anything else
+              with:
+                  WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
 
-          ### meta
-          API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: AdityaTote/AdityaTote
-          
-          ### content
-          SECTION_NAME: waka
-          BLOCKS: -#
-          LANG_COUNT: 5
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          IGNORED_LANGUAGES: YAML JSON TOML prisma bash
+                  ### optional fields
 
-          ### commit
-          COMMIT_MESSAGE: "update: waka-time"
-          TARGET_BRANCH: main
-          TARGET_PATH: README.md 
-          COMMITTER_NAME: reekBo 
+                  ### meta
+                  API_BASE_URL: https://wakatime.com/api
+                  REPOSITORY: AdityaTote/AdityaTote
+
+                  ### content
+                  SECTION_NAME: waka
+                  BLOCKS: ⣿
+                  TIME_RANGE: last_7_days
+                  LANG_COUNT: 5
+                  SHOW_TIME: true
+                  SHOW_TOTAL: true
+                  IGNORED_LANGUAGES: YAML JSON TOML prisma bash Binary
+
+                  ### commit
+                  COMMIT_MESSAGE: "update: waka-time"
+                  TARGET_BRANCH: main
+                  TARGET_PATH: README.md
+                  COMMITTER_NAME: reekBo
