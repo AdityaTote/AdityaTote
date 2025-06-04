@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2024 - To: 03 June 2025
+From: 27 May 2025 - To: 03 June 2025
 
-Total Time: 988 hrs 11 mins
+Total Time: 6 hrs 35 mins
 
-TypeScript       540 hrs         █████████████▓░░░░░░░░░░░   54.50 %
-JavaScript       187 hrs 47 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
-Python           104 hrs 46 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-Prisma           32 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Bash             25 hrs 16 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+TypeScript    5 hrs 4 mins    >>>>>>>>>>>>>>>>>>>------   76.95 %
+JavaScript    33 mins         >>-----------------------   08.39 %
+Python        20 mins         >------------------------   05.15 %
+Markdown      13 mins         >------------------------   03.42 %
+Git Config    8 mins          >------------------------   02.12 %
 ```
 
 <!--END_SECTION:waka-->
