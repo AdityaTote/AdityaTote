@@ -23,12 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 25 hrs 48 mins
+Total Time: 30 hrs 28 mins
 
-TypeScript   9 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   36.13 %
-Python       8 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   30.71 %
-Lua          3 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
-Other        1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Python       10 hrs 22 mins  ████████░░░░░░░░░░░░░░░░░   31.99 %
+TypeScript   9 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.70 %
+Lua          5 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+Other        1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Git Config   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
