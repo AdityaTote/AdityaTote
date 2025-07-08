@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 12 mins
+Total Time: 15 hrs 6 mins
 
-Python       8 hrs 52 mins   ███████████░░░░░░░░░░░░░░   43.98 %
-TypeScript   4 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-Lua          2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-tmux         1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-Other        57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Python       7 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   46.85 %
+TypeScript   4 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.69 %
+tmux         1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Bash         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Lua          38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 ```
 
 <!--END_SECTION:waka-->
