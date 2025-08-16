@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 47 mins
+Total Time: 26 hrs 14 mins
 
-TypeScript    16 hrs 28 mins  ████████████████▒░░░░░░░░   65.17 %
-Other         2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-hyprlang      2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-Python        1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Bash          54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+TypeScript    17 hrs 24 mins  ███████████████░░░░░░░░░░   60.30 %
+Other         2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+hyprlang      2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Python        2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Bash          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
