@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 30 hrs 26 mins
+Total Time: 29 hrs 11 mins
 
-TypeScript   15 hrs 29 mins  ████████████▓░░░░░░░░░░░░   50.38 %
-Solidity     7 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.29 %
-Python       3 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Prisma       1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Bash         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+TypeScript   14 hrs 19 mins  ████████████░░░░░░░░░░░░░   48.61 %
+Solidity     7 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
+Python       3 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Prisma       1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Bash         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
