@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 45 mins
+Total Time: 21 hrs 12 mins
 
-TypeScript   13 hrs 30 mins  ████████████████░░░░░░░░░   64.51 %
-Rust         5 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
-Markdown     39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-CSS          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+TypeScript   15 hrs 1 min    █████████████████▓░░░░░░░   70.20 %
+Rust         3 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+Markdown     1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+CSS          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
