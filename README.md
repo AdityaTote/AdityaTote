@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 hrs 3 mins
+Total Time: 19 hrs 36 mins
 
-Go           16 hrs 45 mins  ████████████████████░░░░░   79.36 %
-C++          2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-hyprlang     36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-TypeScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Go           15 hrs 14 mins  ███████████████████▒░░░░░   77.55 %
+C++          2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+hyprlang     50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+TypeScript   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
