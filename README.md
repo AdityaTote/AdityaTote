@@ -23,12 +23,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 53 mins
+Total Time: 15 hrs 53 mins
 
-Go           13 hrs 10 mins  ██████████████████████░░░   88.10 %
-hyprlang     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-TypeScript   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Go           14 hrs 43 mins  ███████████████████████░░   91.71 %
+hyprlang     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
