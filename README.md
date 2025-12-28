@@ -23,12 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs 1 min
+Total Time: 20 hrs 45 mins
 
-Go           16 hrs 50 mins  ███████████████░░░░░░░░░░   59.81 %
-Python       6 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.18 %
-CSS          57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Git Config   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Go           13 hrs 2 mins   ███████████████▓░░░░░░░░░   62.45 %
+Python       6 hrs 46 mins   ████████░░░░░░░░░░░░░░░░░   32.42 %
+Git Config   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
