@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 5 mins
+Total Time: 8 hrs 3 mins
 
-Go           7 hrs 16 mins   ████████████░░░░░░░░░░░░░   48.04 %
-Python       6 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   45.59 %
-Git Config   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-SQL          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Python       6 hrs 54 mins   █████████████████████▒░░░   85.08 %
+Go           42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Git Config   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
