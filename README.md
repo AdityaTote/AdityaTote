@@ -23,10 +23,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 46 mins
+Total Time: 5 hrs 58 mins
 
-Python     46 mins         ████████████████████████▓   99.28 %
-hyprlang   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Python       4 hrs 42 mins   ███████████████████▓░░░░░   78.78 %
+Docker       42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Bash         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
