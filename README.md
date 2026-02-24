@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 22 mins
+Total Time: 29 hrs 13 mins
 
-Go           10 hrs 4 mins         ██████████▓░░░░░░░░░░░░░░   42.93 %
-SQL          4 hrs 34 mins         █████░░░░░░░░░░░░░░░░░░░░   19.49 %
-TypeScript   4 hrs 7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
-Python       2 hrs 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-Docker       30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Go           10 hrs 4 mins         ████████▒░░░░░░░░░░░░░░░░   32.78 %
+TypeScript   9 hrs 51 mins         ████████░░░░░░░░░░░░░░░░░   32.05 %
+SQL          4 hrs 34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
+Other        1 hr 31 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Python       49 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
