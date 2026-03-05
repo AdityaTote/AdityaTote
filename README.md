@@ -60,13 +60,13 @@ I am a backend-focused software engineer with strong fundamentals in systems, AP
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 26 mins
+Total Time: 6 hrs 22 mins
 
-C++          3 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.92 %
-TypeScript   3 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   37.89 %
-hyprlang     1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-Go           26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Python       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Python         2 hrs 16 mins         ████████▓░░░░░░░░░░░░░░░░   35.30 %
+Go             1 hr 17 mins          █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+Bash           39 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+SQL            35 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+TypeScript     27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
 ```
 
 <!--END_SECTION:waka-->
