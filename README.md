@@ -1,15 +1,9 @@
 ![MasterHead](https://github.com/AdityaTote/AdityaTote/blob/main/assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Aditya Tote</h1>
-<h3 align="center">Passionate about creating innovative Tech Solutions</h3>
+<h3 align="center">Backend-Focused Software Engineer</h3>
 
- <!-- Bio  -->
-
--   🌟 Proficient in JavaScript, Node.js, Next.js, and Express.js for backend development.
--   🚀 Currently exploring Web3 technologies and Python Environment.
--   🔍 Excited about future ventures into AI/ML.
--   💻 Always eager to connect and discuss the latest in tech!
--   📫 How to reach me **adityatote24@gmail.com**
+I am a backend-focused software engineer with strong fundamentals in systems, APIs, and data-intensive applications. My work sits at the intersection of backend engineering, infrastructure thinking, and applied AI integration.
 
 <!-- Social Links -->
 <h3 align="left">Connect with me:</h3>
@@ -19,6 +13,49 @@
 <a href="https://instagram.com/aditya__tote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya__tote" height="30" width="40" /></a>
 <a href="https://discord.gg/adityatote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AdityaTote" height="30" width="40" /></a>
 </p>
+
+## Core Technical Stack
+
+**Languages:** TypeScript, Python, Go  
+*(working knowledge of Rust; used selectively for performance-sensitive components)*
+
+**Backend Frameworks:** Node.js (Express, Hono), FastAPI
+
+**Databases:** PostgreSQL, MySQL  
+– schema design, indexing, query optimization, transactional thinking
+
+**Messaging & Realtime:** Kafka, WebSockets
+
+**APIs:** RESTful APIs, auth flows, async processing, idempotency
+
+**Cloud & Deployment:** GCP (hands-on), containerized services, production deployments
+
+**AI Integration:**
+- Building AI-powered backend systems
+- Agent-based architectures (Google ADK)
+- Using LLMs as tools inside real products (not demos)
+
+## Engineering Mindset
+
+- I think in **systems**, not just endpoints.
+- I care about **latency**, **failure modes**, **data consistency**, and **scalability**.
+- I prefer **simple, explicit designs** over clever abstractions.
+- I value **correctness first**, then performance, then elegance.
+- I'm comfortable reading internals, specs, and RFCs when needed.
+
+## What I Build Well
+
+- Backend services for fintech-like domains (payments, workflows, real-time ops)
+- Data-heavy applications with clear domain models
+- Secure, production-ready APIs
+- AI-enhanced products where models are tools, not magic boxes
+
+## What I'm Actively Growing
+
+- Deeper distributed systems knowledge
+- Low-level performance tuning (Go/Rust)
+- Infra patterns used at scale (queues, event-driven systems, observability)
+- Stronger mental models around financial systems
 
 <!--START_SECTION:waka-->
 
@@ -34,11 +71,6 @@ Python       14 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!-- Skills and Tools -->
-<h3 align="left">Languages:</h3>
- 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css)](https://skillicons.dev)
+---
 
-  <h3 align="left">Tools:</h3>
-  
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postman,npm,mongodb,postgres,git,github,bash,django,firebase,vscode,debian,neovim)](https://skillicons.dev)
+📫 **Email:** adityatote24@gmail.com
