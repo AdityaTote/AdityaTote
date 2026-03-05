@@ -4,20 +4,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=aditya+tote" alt="name" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=C9D1D9&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=55&lines=aditya+tote;backend+engineer+%7C+pune%2C+india;building+ai+%C2%B7+fintech+%C2%B7+backend+systems;go+%C2%B7+python+%C2%B7+typescript+%C2%B7+web3" alt="typing" />
 
 <br/>
 
-<samp>backend engineer · ai systems · infrastructure · web3</samp>
-
-<br/><br/>
-
-<a href="mailto:adityatote23@gmail.com"><kbd>&nbsp;email&nbsp;</kbd></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/aditya-tote"><kbd>&nbsp;linkedin&nbsp;</kbd></a>&nbsp;&nbsp;
-<a href="https://twitter.com/adityatote24"><kbd>&nbsp;twitter&nbsp;</kbd></a>&nbsp;&nbsp;
-<a href="https://github.com/AdityaTote"><kbd>&nbsp;github&nbsp;</kbd></a>
-
-<br/><br/>
+<a href="https://linkedin.com/in/aditya-tote"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/adityatote24"><img src="https://cdn.simpleicons.org/x/white" width="26" height="26" /></a>&nbsp;&nbsp;
+<a href="mailto:adityatote23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>&nbsp;&nbsp;
+<a href="https://github.com/AdityaTote"><img src="https://skillicons.dev/icons?i=github" height="32" /></a>
 
 </div>
 
