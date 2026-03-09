@@ -138,13 +138,13 @@ Jan – July 2025 &nbsp;│&nbsp; <b>Full Stack Developer</b> &nbsp;·&nbsp; Nex
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 26 mins
+Total Time: 17 hrs 23 mins
 
-Python         6 hrs 20 mins         █████████████▓░░░░░░░░░░░   54.94 %
-Docker         1 hr 29 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-Go             1 hr 17 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Bash           43 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-SQL            35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Python         11 hrs 24 mins        ████████████████░░░░░░░░░   63.42 %
+Docker         1 hr 29 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Go             1 hr 17 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+Bash           1 hr 4 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+SQL            35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
