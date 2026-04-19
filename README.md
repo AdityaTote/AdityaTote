@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/aditya-tote"><img src="https://skillicons.dev/icons?i=linkedin" height="32" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/adityatote24"><img src="https://cdn.simpleicons.org/x/white" width="26" height="26" /></a>&nbsp;&nbsp;
-<a href="mailto:adityatote23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>&nbsp;&nbsp;
-<a href="https://github.com/AdityaTote"><img src="https://skillicons.dev/icons?i=github" height="32" /></a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/aditya-tote)&nbsp;&nbsp;
+[![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/adityatote24)&nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:adityatote23@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/AdityaTote)
 
 </div>
 
